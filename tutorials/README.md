@@ -6,3 +6,15 @@ This folder have my annotation from [Ultralytics Tutorials](https://www.youtube.
 
 #### Attachments
  * [1st Python Script](https://github.com/franciscomvargas/ultralytics/blob/main/tutorials/1st_script.py)
+ 
+### [Episode 2](https://www.youtube.com/watch?v=o4Zd-IeMlSY&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=9)
+
+#### Segmentation
+
+**CLI Example**
+```bash
+yolo predict model=yolov8s-seg.pt source='https://ultralytics.com/images/bus.jpg'
+```
+
+#### Attachments
+ * [2nd Python Script](https://github.com/franciscomvargas/ultralytics/blob/main/tutorials/2nd_script.py)
