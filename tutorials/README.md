@@ -26,3 +26,12 @@ yolo predict model=yolov8s-seg.pt source='https://ultralytics.com/images/bus.jpg
 #### YOLOv8 Train Overview with Google [colab](https://colab.research.google.com/drive/1p2iPgdp16nCyluY6-m8IBhraTx3XmKSv?usp=sharing)
  
  * Personal [Roboflow Images Dataset](https://app.roboflow.com/francisco-vargas/rubber-ducks-images/) of [rubber ducks](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+
+
+### [Episode 4](https://www.youtube.com/watch?v=o4Zd-IeMlSY&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=11)
+
+#### Run Inference on Custom YOLOv8m Model > [rubber ducks](https://github.com/franciscomvargas/ultralytics/blob/main/tutorials/4th_tut/ducksModel.pt)
+
+```bash
+python3 tutorials/4th_tut/4th_script.py
+```
