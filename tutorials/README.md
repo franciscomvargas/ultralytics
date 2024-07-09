@@ -35,3 +35,10 @@ yolo predict model=yolov8s-seg.pt source='https://ultralytics.com/images/bus.jpg
 ```bash
 python3 tutorials/4th_tut/4th_script.py
 ```
+
+### [Episode 5](https://youtu.be/QtsI0TnwDZs?si=W0T6HkC4rbZv-pr0)
+
+#### Working with Output Results {[DOCs](https://docs.ultralytics.com/modes/predict/#working-with-results)}
+
+* How to annotate with [supervision](https://pypi.org/project/supervision/) : [DOCs](https://supervision.roboflow.com/latest/how_to/detect_and_annotate/)
+
