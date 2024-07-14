@@ -51,3 +51,13 @@ python3 tutorials/4th_tut/4th_script.py
 ```bash
 python3 tutorials/6th_tut/6th_script.py
 ```
+
+
+### [Episode 7](https://youtu.be/hHyHmOtmEgs?si=-aoPplKAKSVz38kW)
+
+#### Object Tracking overview
+
+```bash
+python3 tutorials/7th_script.py
+```
+
