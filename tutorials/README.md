@@ -61,3 +61,17 @@ python3 tutorials/6th_tut/6th_script.py
 python3 tutorials/7th_script.py
 ```
 
+
+### [Episode 8](https://youtu.be/_1CmwUzoxY4?si=OfeYPAsdj2cZMDiw)
+
+#### [Security Alarm System Project](https://docs.ultralytics.com/guides/security-alarm-system/)
+
+**INSTALL**
+```bash
+pip install -r tutorials/8th_tut/requirements.txt
+```
+
+**RUN**
+```bash
+python3 tutorials/8th_tut/main.py
+```

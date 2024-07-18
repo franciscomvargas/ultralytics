@@ -1,0 +1,5 @@
+debug: True
+email:
+  pass: null # google email passord here ~ https://myaccount.google.com/apppasswords
+  from: null # Origin email here
+  to: null # Target email here
