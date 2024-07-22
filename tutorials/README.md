@@ -75,3 +75,12 @@ pip install -r tutorials/8th_tut/requirements.txt
 ```bash
 python3 tutorials/8th_tut/main.py
 ```
+
+
+### [Episode 9](https://www.youtube.com/watch?v=kONm9nE5_Fk)
+
+#### [Export and Optimize Model Performance](https://docs.ultralytics.com/modes/export/), using [OpenVino](https://docs.ultralytics.com/integrations/openvino/)
+
+```bash
+python3 tutorials/9th_tut/main.py
+```
